@@ -9,7 +9,7 @@ function cambiarImagen(){
 	}
 }
 
-setInterval(cambiarImagen,9000);
+setInterval(cambiarImagen,2500);
 
 function programa(){
 
